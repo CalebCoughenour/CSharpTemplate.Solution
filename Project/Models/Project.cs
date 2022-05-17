@@ -1,6 +1,6 @@
-namespace ProjectName
+namespace Project
 {
-  public class ClassName
+  public class Project
   {
     // properties, constructors, methods, etc. go here
   }
